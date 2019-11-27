@@ -1,3 +1,4 @@
+%Author: José Mata (JMata28)
 %The purpose of the following script is to simulate
 %u[n]-u[n-4] in the discrete domain and to see what happens as
 %the amount of points N plotted decreases and increases
