@@ -1,3 +1,4 @@
+%Author: José Mata (JMata28)
 %The following script simulates a simple convolution by using the 
 %conv() function included in MATLAB 
 
