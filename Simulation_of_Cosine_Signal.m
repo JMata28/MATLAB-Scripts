@@ -1,3 +1,4 @@
+%Author: José Mata (JMata28)
 %The following code simulates a cosine signal with a frequency of 60Hz
 %and it shows the difference a phase shift of pi/2 makes by plotting 
 %both sine functions together
