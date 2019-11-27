@@ -1,3 +1,4 @@
+%Author: José Mata (JMata28)
 %The following code simulates the convolution between function x
 %and a delta function. 
 
