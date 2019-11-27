@@ -1,3 +1,4 @@
+%Author: José Mata (JMata28)
 %The purpose of the following script of code is to simulate the 
 %Fourier Transform of the function f(x) in slide 19. 
 %After some derivation, the equation for Cn was found to be Cn=(Tp/T)sinc((n*Tp)/T).
