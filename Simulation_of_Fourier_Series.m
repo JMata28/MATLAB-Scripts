@@ -1,3 +1,4 @@
+%Author: José Mata (JMata28)
 %The following code simulates the Fourier series representation of 
 %the function f(x). The period is assumed to have a value of four. 
 %It is clear from the graph of function x that the length of the "box"
